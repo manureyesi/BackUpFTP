@@ -10,11 +10,13 @@ BackUp en Java para subir a SFTP.
 
 Este programa necesita un archivo de configuracion del host a conectar, que tiene que tener la siguiente estructura:
 
+```
 <datos>
-    <path>C:\Users\mreyesi\Documents\NetBeansProjects\BackUpFTP\hola\</path>
-    <ip>www.fiandeira.es</ip>
+    <path>C:\EJEMPLO\</path>
+    <ip>XXXXXXXXXXX</ip>
     <port>22</port>
-    <user>fiandeira</user>
-    <pass>fiosebotons</pass>
-	<pathDestino>home</pathDestino>
+    <user>XXXXXXXXXXX</user>
+    <pass>XXXXXXXXXXX</pass>
+    <pathDestino>XXXXXXXXXXX</pathDestino>
 </datos>
+```
