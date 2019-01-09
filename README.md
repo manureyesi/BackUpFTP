@@ -10,6 +10,7 @@ BackUp en Java para subir a SFTP.
 
 Este programa necesita un archivo de configuracion del host a conectar, que tiene que tener la siguiente estructura:
 
+datos.xml
 ```
 <datos>
     <path>C:\EJEMPLO\</path>
