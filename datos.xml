@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<datos>
+    <path>C:\Users\mreyesi\Documents\NetBeansProjects\BackUpFTP\hola\</path>
+    <ip>XXXXXXXXX</ip>
+    <port>22</port>
+    <user>XXXXXXXX</user>
+    <pass>XXXXXXXX</pass>
+	<pathDestino>home</pathDestino>
+</datos>
